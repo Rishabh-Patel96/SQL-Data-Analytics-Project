@@ -10,7 +10,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-👋 Hi, I’m Rishabh Patel.
+👋 Hi, I’m Rishabh Patel, a meticulous architect of ideas, driven by a powerful need for perfection and a quiet, thoughtful ambition.
 
 
 I work at the intersection of operations and data, with a strong focus on using analytics to improve supply chain, inventory, and fulfillment performance. My path into data analytics was not title-driven—it was built hands-on, by working directly with operational data and using it to solve real business problems.
